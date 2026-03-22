@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kshri77/DSA-Solutions/tree/master/0228-summary-ranges) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshri77/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kshri77/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -135,6 +137,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kshri77/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
