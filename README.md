@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kshri77/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
@@ -45,5 +46,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kshri77/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
