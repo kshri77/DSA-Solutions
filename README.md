@@ -20,6 +20,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/kshri77/DSA-Solutions/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/kshri77/DSA-Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Array
 |  |
@@ -83,6 +84,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/kshri77/DSA-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kshri77/DSA-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kshri77/DSA-Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/kshri77/DSA-Solutions/tree/master/0390-elimination-game) |
 | [0877-stone-game](https://github.com/kshri77/DSA-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kshri77/DSA-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kshri77/DSA-Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/kshri77/DSA-Solutions/tree/master/0390-elimination-game) |
 ## Number Theory
 |  |
