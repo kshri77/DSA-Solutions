@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kshri77/DSA-Solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/kshri77/DSA-Solutions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/kshri77/DSA-Solutions/tree/master/0390-elimination-game) |
 | [0877-stone-game](https://github.com/kshri77/DSA-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
@@ -105,6 +106,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/kshri77/DSA-Solutions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/kshri77/DSA-Solutions/tree/master/0390-elimination-game) |
 ## Number Theory
 |  |
