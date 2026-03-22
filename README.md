@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kshri77/DSA-Solutions/tree/master/0228-summary-ranges) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshri77/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
