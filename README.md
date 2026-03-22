@@ -65,4 +65,12 @@
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+## String
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kshri77/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kshri77/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
