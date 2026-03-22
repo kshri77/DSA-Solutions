@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -78,14 +79,20 @@
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
 | [3360-stone-removal-game](https://github.com/kshri77/DSA-Solutions/tree/master/3360-stone-removal-game) |
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/kshri77/DSA-Solutions/tree/master/3360-stone-removal-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
