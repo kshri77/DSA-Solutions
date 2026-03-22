@@ -79,8 +79,13 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
+| [3360-stone-removal-game](https://github.com/kshri77/DSA-Solutions/tree/master/3360-stone-removal-game) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/kshri77/DSA-Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
