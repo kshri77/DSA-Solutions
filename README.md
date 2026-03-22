@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kshri77/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kshri77/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshri77/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kshri77/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kshri77/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
 ## Backtracking
