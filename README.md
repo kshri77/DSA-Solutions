@@ -9,14 +9,17 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kshri77/DSA-Solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kshri77/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kshri77/DSA-Solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kshri77/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kshri77/DSA-Solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kshri77/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bit Manipulation
 |  |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kshri77/DSA-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
