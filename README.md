@@ -34,6 +34,7 @@
 | [0228-summary-ranges](https://github.com/kshri77/DSA-Solutions/tree/master/0228-summary-ranges) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kshri77/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/kshri77/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/kshri77/DSA-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/kshri77/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [2906-construct-product-matrix](https://github.com/kshri77/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
