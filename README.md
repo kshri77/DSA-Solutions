@@ -44,6 +44,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/kshri77/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2906-construct-product-matrix](https://github.com/kshri77/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0141-linked-list-cycle](https://github.com/kshri77/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/kshri77/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/kshri77/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2906-construct-product-matrix](https://github.com/kshri77/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
