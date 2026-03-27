@@ -43,6 +43,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1991-find-the-middle-index-in-array](https://github.com/kshri77/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2906-construct-product-matrix](https://github.com/kshri77/DSA-Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kshri77/DSA-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/kshri77/DSA-Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kshri77/DSA-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kshri77/DSA-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
@@ -119,6 +121,7 @@
 | [0877-stone-game](https://github.com/kshri77/DSA-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kshri77/DSA-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3360-stone-removal-game](https://github.com/kshri77/DSA-Solutions/tree/master/3360-stone-removal-game) |
 ## Game Theory
 |  |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kshri77/DSA-Solutions/tree/master/0258-add-digits) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kshri77/DSA-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3360-stone-removal-game](https://github.com/kshri77/DSA-Solutions/tree/master/3360-stone-removal-game) |
 ## Brainteaser
 |  |
