@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kshri77/DSA-Solutions/tree/master/0228-summary-ranges) |
@@ -89,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Matrix
 |  |
@@ -167,6 +169,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kshri77/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
