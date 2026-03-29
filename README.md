@@ -27,6 +27,7 @@
 | [0231-power-of-two](https://github.com/kshri77/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kshri77/DSA-Solutions/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/kshri77/DSA-Solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0141-linked-list-cycle](https://github.com/kshri77/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Greedy
 |  |
@@ -107,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshri77/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kshri77/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kshri77/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
@@ -184,4 +187,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kshri77/DSA-Solutions/tree/master/0100-same-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
