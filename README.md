@@ -24,6 +24,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kshri77/DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kshri77/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kshri77/DSA-Solutions/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/kshri77/DSA-Solutions/tree/master/1009-complement-of-base-10-integer) |
@@ -51,6 +52,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kshri77/DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
