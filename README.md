@@ -197,4 +197,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/kshri77/DSA-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
