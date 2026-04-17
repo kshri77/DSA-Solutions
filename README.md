@@ -24,6 +24,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kshri77/DSA-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kshri77/DSA-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kshri77/DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kshri77/DSA-Solutions/tree/master/0231-power-of-two) |
@@ -118,6 +119,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshri77/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kshri77/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kshri77/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/kshri77/DSA-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kshri77/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -129,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kshri77/DSA-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/kshri77/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kshri77/DSA-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kshri77/DSA-Solutions/tree/master/0326-power-of-three) |
@@ -148,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kshri77/DSA-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kshri77/DSA-Solutions/tree/master/0258-add-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kshri77/DSA-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3360-stone-removal-game](https://github.com/kshri77/DSA-Solutions/tree/master/3360-stone-removal-game) |
