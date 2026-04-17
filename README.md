@@ -24,6 +24,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kshri77/DSA-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kshri77/DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kshri77/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kshri77/DSA-Solutions/tree/master/0342-power-of-four) |
@@ -36,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/kshri77/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/kshri77/DSA-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kshri77/DSA-Solutions/tree/master/0228-summary-ranges) |
