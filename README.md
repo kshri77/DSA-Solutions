@@ -40,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kshri77/DSA-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/kshri77/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kshri77/DSA-Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0283-move-zeroes) |
@@ -88,6 +89,7 @@
 | [0049-group-anagrams](https://github.com/kshri77/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/kshri77/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/kshri77/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kshri77/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kshri77/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Matrix
