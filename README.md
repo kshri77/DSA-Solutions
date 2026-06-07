@@ -135,6 +135,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kshri77/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kshri77/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/kshri77/DSA-Solutions/tree/master/0443-string-compression) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kshri77/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
@@ -211,6 +212,7 @@
 | [0283-move-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kshri77/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/kshri77/DSA-Solutions/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
