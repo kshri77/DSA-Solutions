@@ -45,6 +45,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kshri77/DSA-Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kshri77/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/kshri77/DSA-Solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -99,6 +101,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kshri77/DSA-Solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kshri77/DSA-Solutions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +119,7 @@
 | [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kshri77/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Matrix
@@ -246,5 +250,18 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kshri77/DSA-Solutions/tree/master/0383-ransom-note) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
