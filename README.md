@@ -98,6 +98,7 @@
 | [0217-contains-duplicate](https://github.com/kshri77/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kshri77/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/kshri77/DSA-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kshri77/DSA-Solutions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -135,6 +136,7 @@
 | [0067-add-binary](https://github.com/kshri77/DSA-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/kshri77/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/kshri77/DSA-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kshri77/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kshri77/DSA-Solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/kshri77/DSA-Solutions/tree/master/0443-string-compression) |
