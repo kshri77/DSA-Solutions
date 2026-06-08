@@ -47,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kshri77/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kshri77/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kshri77/DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -104,6 +105,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kshri77/DSA-Solutions/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kshri77/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -121,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/kshri77/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kshri77/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Matrix
 |  |
