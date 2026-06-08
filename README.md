@@ -48,6 +48,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kshri77/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kshri77/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kshri77/DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -106,6 +107,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kshri77/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kshri77/DSA-Solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kshri77/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kshri77/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kshri77/DSA-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -163,6 +165,7 @@
 | [0326-power-of-three](https://github.com/kshri77/DSA-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kshri77/DSA-Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/kshri77/DSA-Solutions/tree/master/0390-elimination-game) |
+| [0523-continuous-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/kshri77/DSA-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kshri77/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kshri77/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kshri77/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
