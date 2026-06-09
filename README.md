@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kshri77/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kshri77/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kshri77/DSA-Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kshri77/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -73,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/kshri77/DSA-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kshri77/DSA-Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kshri77/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/kshri77/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kshri77/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
