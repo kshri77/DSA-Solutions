@@ -82,6 +82,7 @@
 | [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kshri77/DSA-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kshri77/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/kshri77/DSA-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/kshri77/DSA-Solutions/tree/master/1025-divisor-game) |
@@ -176,6 +177,7 @@
 | [0048-rotate-image](https://github.com/kshri77/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kshri77/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kshri77/DSA-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/kshri77/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kshri77/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kshri77/DSA-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kshri77/DSA-Solutions/tree/master/0326-power-of-three) |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kshri77/DSA-Solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kshri77/DSA-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
