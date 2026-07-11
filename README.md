@@ -39,6 +39,7 @@
 | [0011-container-with-most-water](https://github.com/kshri77/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kshri77/DSA-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kshri77/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kshri77/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kshri77/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -139,6 +140,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kshri77/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kshri77/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/kshri77/DSA-Solutions/tree/master/2906-construct-product-matrix) |
@@ -168,6 +170,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kshri77/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kshri77/DSA-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/kshri77/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kshri77/DSA-Solutions/tree/master/0258-add-digits) |
