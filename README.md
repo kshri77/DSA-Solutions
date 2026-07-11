@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshri77/DSA-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kshri77/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kshri77/DSA-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kshri77/DSA-Solutions/tree/master/0049-group-anagrams) |
@@ -119,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kshri77/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kshri77/DSA-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/kshri77/DSA-Solutions/tree/master/1927-sum-game) |
 ## Sorting
@@ -228,6 +230,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kshri77/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kshri77/DSA-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kshri77/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kshri77/DSA-Solutions/tree/master/0088-merge-sorted-array) |
