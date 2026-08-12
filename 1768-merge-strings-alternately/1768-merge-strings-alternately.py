@@ -1,9 +1,9 @@
 class Solution(object):
     def mergeAlternately(self, word1, word2):
-        newstr=""
+        res=[]
         for i in range(min(len(word1),len(word2))):
-            newstr+=word1[i]
-            newstr+=word2[i]
+            res.append(word1[i])
+            res.append(word2[i])
         remword=word1 if len(word1)>len(word2) else word2
-        newstr += remword[min(len(word1), len(word2)):]
-        return newstr
+        res.append(remword[min(len(word1), len(word2)):])
+        return "".join(res)
